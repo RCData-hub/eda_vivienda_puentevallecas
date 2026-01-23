@@ -64,7 +64,7 @@ def load_csv_data(file_path, encoding="utf-8"):
                         df = df_temp
                         used_sep = sep
                         used_encoding = enc
-                        print(f"✅ Archivo cargado exitosamente:")
+                        print("✅ Archivo cargado exitosamente:")
                         print(f"   - Separador: '{used_sep}'")
                         print(f"   - Codificación: {used_encoding}")
                         break
@@ -523,7 +523,7 @@ def create_nuevas_vs_usadas_plot(df, selected_districts=None):
         selected_districts = district_completeness.nlargest(6).index.tolist()
 
     p = figure(
-        title=f"Comparación Precios: Nuevas vs Usadas - Top Distritos",
+        title="Comparación Precios: Nuevas vs Usadas - Top Distritos",
         x_axis_label="Año",
         y_axis_label="Precio €/m²",
         width=1000,
