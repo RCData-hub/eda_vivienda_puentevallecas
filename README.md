@@ -8,6 +8,7 @@
 
 Análisis exploratorio de datos (EDA) del mercado inmobiliario en el distrito de Puente de Vallecas y sus barrios (Entrevías, Numancia, Palomeras Bajas, Palomeras Sureste, Portazgo, San Diego), Madrid. Este proyecto examina la evolución temporal de precios, comparaciones entre viviendas nuevas y usadas, y tendencias del mercado inmobiliario local mediante visualizaciones interactivas con Bokeh.
 
+## Fuente de los datos: [Banco de datos del Ayuntamiento de madrid](https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=0504020100060)
 ## 📋 Descripción
 
 Este proyecto realiza un análisis exhaustivo del mercado inmobiliario en Puente de Vallecas utilizando datos de propiedades disponibles. El objetivo es identificar patrones de precios, características más valoradas y insights relevantes para compradores, vendedores e inversores.
