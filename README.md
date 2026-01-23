@@ -5,6 +5,7 @@
 ![Bokeh](https://img.shields.io/badge/bokeh-3.7.3-orange.svg)
 ![Pandas](https://img.shields.io/badge/pandas-latest-150458.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
+![Built with Claude](https://img.shields.io/badge/Built_with-Claude-5A67D8)
 
 Análisis exploratorio de datos (EDA) del mercado inmobiliario en el distrito de Puente de Vallecas y sus barrios (Entrevías, Numancia, Palomeras Bajas, Palomeras Sureste, Portazgo, San Diego), Madrid. Este proyecto examina la evolución temporal de precios, comparaciones entre viviendas nuevas y usadas, y tendencias del mercado inmobiliario local mediante visualizaciones interactivas con Bokeh.
 
@@ -261,6 +262,13 @@ Las contribuciones son bienvenidas. Si deseas colaborar:
 - Mejorar la interfaz del dashboard interactivo
 - Añadir exportación a PDF de reportes
 - Implementar modelos predictivos de precios
+
+## Desarrollo
+
+Este proyecto ha sido desarrollado con la asistencia de Claude (Anthropic) para:
+- Generación de código
+- Resolución de problemas técnicos
+- Documentación
 
 ## 📝 Licencia
 
