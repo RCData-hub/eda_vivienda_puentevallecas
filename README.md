@@ -1,13 +1,16 @@
-# 🏠 Análisis Exploratorio de Vivienda en Puente de Vallecas
+# 🏠 Análisis Interactivo del precio de la vivienda en Puente de Vallecas
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Bokeh](https://img.shields.io/badge/bokeh-3.7.3-orange.svg)
 ![Pandas](https://img.shields.io/badge/pandas-latest-150458.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
+![Built with Claude](https://img.shields.io/badge/Built_with-Claude-5A67D8)
 
 Análisis exploratorio de datos (EDA) del mercado inmobiliario en el distrito de Puente de Vallecas y sus barrios (Entrevías, Numancia, Palomeras Bajas, Palomeras Sureste, Portazgo, San Diego), Madrid. Este proyecto examina la evolución temporal de precios, comparaciones entre viviendas nuevas y usadas, y tendencias del mercado inmobiliario local mediante visualizaciones interactivas con Bokeh.
 
+Fuente de los datos:
+[Banco de datos del Ayuntamiento de madrid](https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=0504020100060)
 ## 📋 Descripción
 
 Este proyecto realiza un análisis exhaustivo del mercado inmobiliario en Puente de Vallecas utilizando datos de propiedades disponibles. El objetivo es identificar patrones de precios, características más valoradas y insights relevantes para compradores, vendedores e inversores.
@@ -260,6 +263,13 @@ Las contribuciones son bienvenidas. Si deseas colaborar:
 - Añadir exportación a PDF de reportes
 - Implementar modelos predictivos de precios
 
+## Desarrollo
+
+Este proyecto ha sido desarrollado con la asistencia de Claude (Anthropic) para:
+- Generación de código
+- Resolución de problemas técnicos
+- Documentación
+
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
@@ -270,26 +280,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 - GitHub: [@RCData-hub](https://github.com/RCData-hub)
 
-## 📧 Contacto
-
-Si tienes preguntas o sugerencias sobre este proyecto:
-
-- 🐛 **Issues**: [Abre un issue](https://github.com/RCData-hub/eda_vivienda_puentevallecas/issues) en GitHub
-- 💬 **Discusiones**: Usa la sección de [Discussions](https://github.com/RCData-hub/eda_vivienda_puentevallecas/discussions)
-- 📧 **Email**: Contacta directamente a través de tu perfil de GitHub
-
-## 🙏 Agradecimientos
-
-- Datos de precios inmobiliarios proporcionados por fuentes públicas
-- Comunidad de desarrolladores de Bokeh por la excelente documentación
-- Bibliotecas open-source: Pandas, NumPy, Bokeh
-
----
-
 <div align="center">
 
 ⭐ Si este proyecto te resulta útil, considera darle una estrella en GitHub ⭐
-
-**Desarrollado con ❤️ para el análisis del mercado inmobiliario de Madrid**
 
 </div>
