@@ -272,26 +272,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 - GitHub: [@RCData-hub](https://github.com/RCData-hub)
 
-## 📧 Contacto
-
-Si tienes preguntas o sugerencias sobre este proyecto:
-
-- 🐛 **Issues**: [Abre un issue](https://github.com/RCData-hub/eda_vivienda_puentevallecas/issues) en GitHub
-- 💬 **Discusiones**: Usa la sección de [Discussions](https://github.com/RCData-hub/eda_vivienda_puentevallecas/discussions)
-- 📧 **Email**: Contacta directamente a través de tu perfil de GitHub
-
-## 🙏 Agradecimientos
-
-- Datos de precios inmobiliarios proporcionados por fuentes públicas
-- Comunidad de desarrolladores de Bokeh por la excelente documentación
-- Bibliotecas open-source: Pandas, NumPy, Bokeh
-
----
-
 <div align="center">
 
 ⭐ Si este proyecto te resulta útil, considera darle una estrella en GitHub ⭐
-
-**Desarrollado con ❤️ para el análisis del mercado inmobiliario de Madrid**
 
 </div>
